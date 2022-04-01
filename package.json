@@ -38,7 +38,7 @@
         "marked": "^1.2.5",
         "moment": "^2.29.0",
         "monaco-editor": "^0.20.0",
-        "ng-multiselect-dropdown": "0.2.12",
+        "ng-multiselect-dropdown": "0.3.8",
         "ng2-charts": "^2.3.2",
         "ng5-slider": "^1.2.4",
         "ngx-clipboard": "^14.0.1",
