@@ -37,7 +37,7 @@
         "jquery": "^3.5.1",
         "marked": "^1.2.5",
         "moment": "^2.29.0",
-        "monaco-editor": "^0.20.0",
+        "monaco-editor": "^0.32.1",
         "ng-multiselect-dropdown": "0.2.12",
         "ng2-charts": "^2.3.2",
         "ng5-slider": "^1.2.4",
