@@ -43,7 +43,7 @@
         "ng5-slider": "^1.2.4",
         "ngx-clipboard": "^14.0.1",
         "ngx-echarts": "^5.2.1",
-        "ngx-markdown": "^10.1.1",
+        "ngx-markdown": "^14.0.0",
         "ngx-monaco-editor": "^9.0.0",
         "ngx-skeleton-loader": "^2.2.0",
         "ngx-socket-io": "^3.2.0",
