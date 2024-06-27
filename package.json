@@ -32,7 +32,7 @@
         "@ngx-translate/http-loader": "^4.0.0",
         "bootstrap": "^4.4.1",
         "chart.js": "^2.9.3",
-        "echarts": "^4.8.0",
+        "echarts": "^5.5.1",
         "echarts-gl": "^1.1.1",
         "jquery": "^3.5.1",
         "marked": "^1.2.5",
