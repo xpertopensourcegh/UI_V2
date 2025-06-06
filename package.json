@@ -46,7 +46,7 @@
         "ngx-markdown": "^10.1.1",
         "ngx-monaco-editor": "^9.0.0",
         "ngx-skeleton-loader": "^2.2.0",
-        "ngx-socket-io": "^3.2.0",
+        "ngx-socket-io": "^4.0.0",
         "resize-observer-polyfill": "1.5.1",
         "rxjs": "~6.5.4",
         "save": "^2.4.0",
